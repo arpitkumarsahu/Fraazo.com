@@ -2,126 +2,126 @@
 
 var bestdealArr = [
     {
-        img: "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VGAV12.png",
+        img: "https://merafarmer.com/110-large_default/cluster-beans-gavar.jpg",
         name: "Beans Cluster (Gavar)",
         quantity: "250 g",
         price: 12,
         strike_price: 16
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/images/images/000/006/605/original/data?1649242645",
+        img: "https://www.bigbasket.com/media/uploads/p/l/10000203_16-fresho-tomato-local.jpg",
         name: "Tomato (1 kg)",
         quantity: "1 kg",
         price: 42,
         strike_price: 45
     },
     {
-        img: "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VARB12.png",
+        img: "https://www.jiomart.com/images/product/original/590004128/arbi-colocasia-small-500-g-product-images-o590004128-p590004128-0-202203170341.jpg",
         name: "Arbi(Colocasia)",
         quantity: "500 g",
         price: 35,
         strike_price: ""
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/012/original/data?1595253652",
+        img: "https://www.bigbasket.com/media/uploads/p/l/10000024-2_2-fresho-baby-potato.jpg",
         name: "Baby Potato",
         price: 21,
         quantity: "500 g",
         strike_price: "",
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/381/original/data?1624199604",
+        img: "https://www.jiomart.com/images/product/original/590000182/banana-flower-approx-180-g-300-g-product-images-o590000182-p590000182-0-202203141947.jpg",
         name: "Banana Flower",
         price: 24,
         quantity: " 1 pc",
         strike_price: "",
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/389/original/data?1624874955",
+        img: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=480,h=480/app/images/products/full_screen/pro_487722.jpg?ts=1661770132",
         name: "Fresh Salad Combo (250G Carrot + 500 G Cucumber)",
         price: 31,
         quantity: "1 unit",
         strike_price: 36,
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/390/original/data?1624895924",
+        img: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=480,h=480/app/images/products/full_screen/pro_487715.jpg?ts=1661335229",
         name: "Mixed Capsicum Combo (1 Pc Capsicum Red + 1 Pc Capsicum Yellow)",
         price: 104,
         quantity: "1 unit",
         strike_price: 107,
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/250/original/data?1642167498",
+        img: "https://www.bigbasket.com/media/uploads/p/l/10000126_16-fresho-lemon.jpg",
         name: "Lemon(100g) / Nimboo / Nibu",
         quantity: "100g",
         price: 19,
         strike_price: 26
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/163/original/data?1640321543",
+        img: "https://www.hi5mart.com/image/cache/catalog/Vegetables/Dhaniya%20Patta-750x750.jpg",
         name: "Special Offer Coriander",
         quantity: "1 unit",
         price: 4,
         strike_price: 13
     },
     {
-        img: "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VAWL11.png",
+        img: "https://www.bigbasket.com/media/uploads/p/xxl/10000293_14-fresho-amla.jpg",
         name: "Amla",
         quantity: "250 g",
         price: 42,
         strike_price: ""
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/417/original/data?1628778604",
+        img: "https://5.imimg.com/data5/SELLER/Default/2021/4/GJ/WM/CH/126914964/aloe-vera-500x500.jpg",
         name: "Aloevera",
         quantity: "1 pc ",
         price: 13,
         strike_price: ""
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/263/original/data?1642176073",
+        img: "https://www.jiomart.com/images/product/original/rvumvugnw5/yum-yum-dry-fruits-combo-pack-400g-almonds-100g-pista-100g-cashew-100g-raisins-100g-product-images-orvumvugnw5-p590977144-0-202201021839.png",
         name: "Cashew & Kismis Combo Pack (Cashew 100gm + Kismis 200gm)",
         quantity: "1 unit-300 g",
         price: 149,
         strike_price: 246
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/579/original/data?1635086198",
+        img: "https://www.jiomart.com/images/product/original/rvumvugnw5/yum-yum-dry-fruits-combo-pack-400g-almonds-100g-pista-100g-cashew-100g-raisins-100g-product-images-orvumvugnw5-p590977144-0-202201021839.png",
         name: "Cashew 500gms (Pack of 5*100gms)",
         quantity: "500 g",
         price: 450,
         strike_price: 830
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/598/original/data?1635146504",
+        img: "https://www.jiomart.com/images/product/600x600/rvpq77g8wy/paleo-india-khajoor-khajur-dry-fruits-dates-dried-fruits-and-nuts-400gm-pack-of2-200-fard-dates-product-images-orvpq77g8wy-p595218234-0-202211110823.jpg",
         name: "Dry Dates - 400gms (Pack of 2*200gms)",
         quantity: "400 g",
         price: 135,
         strike_price: 184
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/581/original/data?1635086887",
+        img: "https://4.imimg.com/data4/TJ/RK/MY-5713098/cashew-tukda-500x500.jpg",
         name: "Cashew Tukda 200gms (Pack of 2*100gms)",
         quantity: "200 g",
         price: 167,
         strike_price: 236
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/582/original/data?1635086999",
+        img: "https://4.imimg.com/data4/TJ/RK/MY-5713098/cashew-tukda-500x500.jpg",
         name: "Cashew Tukda 500gms (Pack of 5*100gms)",
         quantity: "500 g",
         price: 415,
         strike_price: 590
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/435/original/data?1643108708",
+        img: "https://5.imimg.com/data5/SELLER/Default/2022/5/CQ/EE/OL/142781832/webp-net-resizeimage-3--500x500.png",
         name: "Maya Besan 500G",
         quantity: "500 g",
         price: 54,
         strike_price: 59
     },
     {
-        img: "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/443/original/data?1643108726",
+        img: "https://5.imimg.com/data5/SELLER/Default/2022/5/CQ/EE/OL/142781832/webp-net-resizeimage-3--500x500.png",
         name: "Maya Maida 500G",
         quantity: "500 g",
         price: 27,
